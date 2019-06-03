@@ -12,7 +12,7 @@ def long_planeteer_calls(calls)
   calls.each do |x|
     return true if x.length > 4
   end
-  anything else sir
+  hup ily2 dieirl kys
   
   false
 end
